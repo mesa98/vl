@@ -3,3 +3,12 @@ Patch 2 toegevoegd
 Patch 3a toegevoegd
 Patch 4 commit 1
 Patch 4 commit 2
+Patch 5 commit 1
+Patch 6 commit 1
+Patch 7 commit 1
+Patch 7 commit 2
+Patch 8 commit 1
+Patch 8 commit 2
+Patch 8 commit 3
+Patch 9 commit 1
+Patch 9 commit 2
